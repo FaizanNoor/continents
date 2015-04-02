@@ -1,2 +1,2 @@
 # continents
-List of all Continents of the world.
+MySQL queries for the list of all Continents of the world.
